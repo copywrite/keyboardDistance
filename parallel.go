@@ -1,3 +1,5 @@
+//根据QWERY键盘计算编辑距离，算法均来自网络
+
 package main
 
 import (
