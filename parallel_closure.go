@@ -1,5 +1,5 @@
 /*
-  Thansk ANan, Siritinga, Nick Craig-Wood
+  Thanks ANan, Siritinga, Nick Craig-Wood
   lots of room to improve
 */
 
